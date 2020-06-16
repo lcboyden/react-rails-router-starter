@@ -3,6 +3,8 @@
 ### clone/git
 
 1.  `git clone git@github.com:jimibue/react-rails-router-starter.git <ProjectName>`
+// remove origin
+// cd into project
 2.  `git remote rm origin`
 3.  create a new repo and add new origin
 4.  `git add remote origin <ulr>`
