@@ -8,6 +8,9 @@ const NavBar = () => {
       <Link to="/">
         <Menu.Item>Home</Menu.Item>
       </Link>
+      <Link to="/demo">
+        <Menu.Item>Components Demo</Menu.Item>
+      </Link>
       <Link to="/products">
         <Menu.Item>Products</Menu.Item>
       </Link>
